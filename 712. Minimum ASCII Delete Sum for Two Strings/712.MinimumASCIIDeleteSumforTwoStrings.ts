@@ -33,6 +33,6 @@ function minimumDeleteSum(s1: string, s2: string): number {
     let n = s1.length;
     let m = s2.length;
     let dp = [[0]* (m+1) ]
-
+    //не решил
     return 0;
 };
